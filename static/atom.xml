@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>Sarita Singh</title>
+	<link href="https://Sarita-Singh.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://Sarita-Singh.github.io"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-12-11T00:00:00+00:00</updated>
+	<id>https://Sarita-Singh.github.io/atom.xml</id>
+	<entry xml:lang="en">
+		<title>About Me</title>
+		<published>2022-12-11T00:00:00+00:00</published>
+		<updated>2022-12-11T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://Sarita-Singh.github.io/about/" type="text/html"/>
+		<id>https://Sarita-Singh.github.io/about/</id>
+		<content type="html">&lt;p&gt;Hi! I am Sarita. &lt;&#x2F;p&gt;
+&lt;p&gt;I am an undergraduate student at the Indian Institute of Technology Kharagpur. Currently I am in my third year of study at the institute completing my B.Tech degree with major in Computer Science and Engineering. I am an easily recognizable couch potato and my usual 
+way of going about everything in life is: &amp;quot;Learning. Breaking. Unlearning. Building.&amp;quot;. I blog once
+in a while. A funny part about me though - I absolutely loooove &lt;strong&gt;Paperboats&lt;&#x2F;strong&gt;. &lt;&#x2F;p&gt;
+&lt;h1 id=&quot;contact&quot;&gt;Contact&lt;&#x2F;h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Sarita-Singh&#x2F;&quot;&gt;Github&lt;&#x2F;a&gt; &lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;sarita-singh-2a95b0181&#x2F;&quot;&gt;LinkedIn&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;_blacktshirt&quot;&gt;Twitter&lt;&#x2F;a&gt; &lt;&#x2F;li&gt;
+&lt;li&gt;Discord: blacktshirt#2626&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;You can reach out to me on the &lt;a href=&quot;sarita01.ar@gmail.com&quot;&gt;mail&lt;&#x2F;a&gt; or &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;_blacktshirt&quot;&gt;Twitter&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Artwork</title>
+		<published>2022-12-11T00:00:00+00:00</published>
+		<updated>2022-12-11T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://Sarita-Singh.github.io/artwork/" type="text/html"/>
+		<id>https://Sarita-Singh.github.io/artwork/</id>
+		<content type="html">&lt;blockquote&gt;
+&lt;h2 id=&quot;these-are-a-collection-of-my-artworks-yay&quot;&gt;These are a collection of my &lt;em&gt;Artworks&lt;&#x2F;em&gt;. Yay!!&lt;&#x2F;h2&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p align=&quot;left&quot;&gt;
+  &lt;img alt=&quot;Dark&quot; async src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dbvk7r8j1&#x2F;image&#x2F;upload&#x2F;v1670675355&#x2F;Artwork&#x2F;IMG20221209142728_mbhlvv.jpg&quot; width=&quot;40%&quot; &gt;
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
+  &lt;img alt=&quot;Light&quot; async src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dbvk7r8j1&#x2F;image&#x2F;upload&#x2F;v1670675321&#x2F;Artwork&#x2F;IMG20221209140227_lnkfvk.jpg&quot; width=&quot;36%&quot; &gt;
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
+&lt;&#x2F;p&gt;
+&lt;p align=&quot;left&quot;&gt;
+  &lt;img alt=&quot;Dark&quot; async src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dbvk7r8j1&#x2F;image&#x2F;upload&#x2F;v1670675346&#x2F;Artwork&#x2F;IMG20221209142620_c8x3dn.jpg&quot; width=&quot;40%&quot; &gt;
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
+  &lt;img alt=&quot;Light&quot; async src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dbvk7r8j1&#x2F;image&#x2F;upload&#x2F;v1670675345&#x2F;Artwork&#x2F;IMG20221209142519_xnr8h1.jpg&quot; width=&quot;39%&quot; &gt;
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
+&lt;&#x2F;p&gt;
+&lt;p align=&quot;centre&quot;&gt;
+    &lt;img alt=&quot;Light&quot; async src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dbvk7r8j1&#x2F;image&#x2F;upload&#x2F;v1670675331&#x2F;Artwork&#x2F;IMG20221209140902_ishfmq.jpg&quot; width=&quot;80%&quot; hspace=&quot;40&quot;&gt;
+&lt;&#x2F;p&gt;
+&lt;p align=&quot;left&quot;&gt;
+    &lt;img alt=&quot;Light&quot; async src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dbvk7r8j1&#x2F;image&#x2F;upload&#x2F;v1670675331&#x2F;Artwork&#x2F;IMG20221209141034_wczzsv.jpg&quot; width=&quot;48%&quot; &gt;
+    &lt;img alt=&quot;Light&quot; async src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dbvk7r8j1&#x2F;image&#x2F;upload&#x2F;v1670675341&#x2F;Artwork&#x2F;IMG20221209140426_uxyn6p.jpg&quot; width=&quot;49%&quot; &gt;
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
+&lt;&#x2F;p&gt;
+&lt;p align=&quot;left&quot;&gt;
+  &lt;img alt=&quot;Dark&quot; async src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dbvk7r8j1&#x2F;image&#x2F;upload&#x2F;v1670675320&#x2F;Artwork&#x2F;IMG20221209140123_icm0j4.jpg&quot; width=&quot;44%&quot; &gt;
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
+  &lt;img alt=&quot;Light&quot; async src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dbvk7r8j1&#x2F;image&#x2F;upload&#x2F;v1670675354&#x2F;Artwork&#x2F;IMG20221209142841_a50eaz.jpg&quot; width=&quot;40%&quot; &gt;
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
+&lt;&#x2F;p&gt;
+&lt;p align=&quot;left&quot;&gt;
+  &lt;img alt=&quot;Light&quot; async src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dbvk7r8j1&#x2F;image&#x2F;upload&#x2F;v1670763736&#x2F;Artwork&#x2F;fuil2ybab0ok6nyns5uf.jpg&quot; width=&quot;50%&quot; hspace=&quot;10&quot;&gt;
+&lt;!-- &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; --&gt;
+  &lt;img alt=&quot;Light&quot; async src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dbvk7r8j1&#x2F;image&#x2F;upload&#x2F;v1670764432&#x2F;Artwork&#x2F;hr4s8puciitu9powiq9o.jpg&quot; width=&quot;45%&quot; &gt;
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
+&lt;&#x2F;p&gt;
+&lt;p align=&quot;left&quot;&gt;
+  &lt;img alt=&quot;Dark&quot; async src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dbvk7r8j1&#x2F;image&#x2F;upload&#x2F;v1670675344&#x2F;Artwork&#x2F;IMG20221209142247_zzgo9q.jpg&quot; width=&quot;40%&quot; hspace=&quot;15&quot;&gt;
+&lt;!-- &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; --&gt;
+  &lt;img alt=&quot;Light&quot; async src=&quot;https:&#x2F;&#x2F;res.cloudinary.com&#x2F;dbvk7r8j1&#x2F;image&#x2F;upload&#x2F;v1670675353&#x2F;Artwork&#x2F;IMG20221209142430_lvifls.jpg&quot; width=&quot;54%&quot; &gt;
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;
+&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>My internship experience at Uber</title>
+		<published>2022-12-11T00:00:00+00:00</published>
+		<updated>2022-12-11T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://Sarita-Singh.github.io/posts/my-internship-experience-at-uber/" type="text/html"/>
+		<id>https://Sarita-Singh.github.io/posts/my-internship-experience-at-uber/</id>
+		<content type="html">&lt;p&gt;It is a nice sunday evening, and I should complete writing this blog. &lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
